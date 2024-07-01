@@ -286,6 +286,6 @@ class __TwigTemplate_e5658a17279a253e2cc623165fe9e68c extends Template
     
      
     {% endif %}
-{% endblock %}", "taxis/taxi.html.twig", "C:\\Users\\preet\\OneDrive\\Desktop\\projet\\templates\\taxis\\taxi.html.twig");
+{% endblock %}", "taxis/taxi.html.twig", "C:\\Users\\preet\\OneDrive\\Documents\\GitHub\\Projet-Taxi-Reservation\\projet\\templates\\taxis\\taxi.html.twig");
     }
 }

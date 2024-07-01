@@ -159,6 +159,6 @@ class __TwigTemplate_c2cdbb28febec796f028d61d99c9c5a8 extends Template
 </div>
 </div>
 
-{% endblock %}", "security/profil.html.twig", "C:\\Users\\preet\\OneDrive\\Desktop\\projet\\templates\\security\\profil.html.twig");
+{% endblock %}", "security/profil.html.twig", "C:\\Users\\preet\\OneDrive\\Documents\\GitHub\\Projet-Taxi-Reservation\\projet\\templates\\security\\profil.html.twig");
     }
 }

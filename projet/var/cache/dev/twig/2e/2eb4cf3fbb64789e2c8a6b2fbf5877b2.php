@@ -171,6 +171,6 @@ style=\"width: 30rem;\">
 {% endfor %}
  </div> 
 {% endblock %}
-", "taxis/index.html.twig", "C:\\Users\\preet\\OneDrive\\Desktop\\projet\\templates\\taxis\\index.html.twig");
+", "taxis/index.html.twig", "C:\\Users\\preet\\OneDrive\\Documents\\GitHub\\Projet-Taxi-Reservation\\projet\\templates\\taxis\\index.html.twig");
     }
 }

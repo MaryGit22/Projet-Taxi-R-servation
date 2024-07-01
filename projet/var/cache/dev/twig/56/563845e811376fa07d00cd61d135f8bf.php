@@ -240,6 +240,6 @@ Un chauffeur bilingue</div>
 
 </div>
 
-{% endblock %}", "home/index.html.twig", "C:\\Users\\preet\\OneDrive\\Desktop\\projet\\templates\\home\\index.html.twig");
+{% endblock %}", "home/index.html.twig", "C:\\Users\\preet\\OneDrive\\Documents\\GitHub\\Projet-Taxi-Reservation\\projet\\templates\\home\\index.html.twig");
     }
 }

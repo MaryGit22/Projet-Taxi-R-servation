@@ -74,6 +74,6 @@ class __TwigTemplate_54cd1e9ead2aa99dac46aa86c555e360 extends Template
     <path d=\"M4 6v6a8 3 0 0 0 16 0v-6\"></path>
     <path d=\"M4 12v6a8 3 0 0 0 16 0v-6\"></path>
 </svg>
-", "@Doctrine/Collector/database.svg", "C:\\Users\\preet\\OneDrive\\Desktop\\projet\\vendor\\doctrine\\doctrine-bundle\\templates\\Collector\\database.svg");
+", "@Doctrine/Collector/database.svg", "C:\\Users\\preet\\OneDrive\\Documents\\GitHub\\Projet-Taxi-Reservation\\projet\\vendor\\doctrine\\doctrine-bundle\\templates\\Collector\\database.svg");
     }
 }

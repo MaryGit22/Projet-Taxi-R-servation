@@ -201,6 +201,6 @@ Réservez facilement en ligne et en quelques clics, votre chauffeur de taxi ou u
 Disponible immédiatement, <strong> <a href=\"{{ path('app_home') }}\" class=\"text-decoration-none\">bienvenuetransport.fr</strong></a>  propose des prestations adaptées à vos besoins. </p>
 </div>
 </div>
-{% endblock %}", "home/contact.html.twig", "C:\\Users\\preet\\OneDrive\\Desktop\\projet\\templates\\home\\contact.html.twig");
+{% endblock %}", "home/contact.html.twig", "C:\\Users\\preet\\OneDrive\\Documents\\GitHub\\Projet-Taxi-Reservation\\projet\\templates\\home\\contact.html.twig");
     }
 }

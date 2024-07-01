@@ -283,6 +283,6 @@ class __TwigTemplate_4be96ada38aa94b097c8419180a2d122 extends Template
         Les bases de données sont protégées par les dispositions de la loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 relative à la protection juridique des bases de données.</p>
 
 </div>
-{% endblock %}", "home/mention.html.twig", "C:\\Users\\preet\\OneDrive\\Desktop\\projet\\templates\\home\\mention.html.twig");
+{% endblock %}", "home/mention.html.twig", "C:\\Users\\preet\\OneDrive\\Documents\\GitHub\\Projet-Taxi-Reservation\\projet\\templates\\home\\mention.html.twig");
     }
 }
