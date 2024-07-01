@@ -1,0 +1,200 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.image
+{
+    background-color: bisque;
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.477), transparent),
+    url(../photos/penurie-taxi-paris-8.jpg);
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar,.footer
+{
+    background-color: #101a77;
+}
+
+
+h1
+{
+    color: #df2a2a;
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+}
+
+.background
+{
+    background-color:black;
+
+}
+
+h2.titre
+{
+    color: #f7d05a;
+    font-family: 'Playfair Display', serif;
+}
+
+p.text-light,ul.text-light
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1.font
+{
+    font-family: 'Playfair Display', serif;
+    color: #df2a2a;
+}
+
+p.font
+{
+    color: #817708;
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+}
+
+h4.font
+{
+    font-family: 'Libre Baskerville', serif;
+    color: #82175d;
+    font-weight: bold;
+}
+
+.taxi
+{
+    background-color: #cbcaf6;
+    width: 90%;
+}
+
+.zoom img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.zoom :hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.cards
+{
+    background-color: #cbcaf6;
+}
+
+
+#booking_commander {
+    color: #e3dada;
+    background-color: #100c02;
+    border-color: #191405;
+}
+
+#admin_promouvoir {
+    color: #e3dada;
+    background-color: #100c02;
+    border-color: #191405;
+    
+}
+
+#taxis_envoyer
+{
+    color: #e3dada;
+    background-color: #100c02;
+    border-color: #191405;
+}
+
+.flex
+{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.form
+{
+    background-color: #bccbff;
+    max-width: 50%;
+}
+
+.form1
+{
+    background-color: #f9f6b7;
+    max-width: 50%;
+}
+
+label,legend
+{
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.form-check-label
+{
+    font-weight: normal;
+}
+
+.formcontact
+{ 
+    width: 450px;
+    height: 500px;
+    padding: 30px 20px;
+    background-color: #fc9960fb;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px rgba(24, 20, 20, 0.544);
+    transition: 0.3s;
+}
+
+.input
+{
+    padding: 3px;
+    box-shadow: 3px 3px 5px grey;
+    font-size: 14px;
+    font-weight: 600;
+    width: 300px;
+}
+
+.contact
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mention
+{
+    width: 50%;
+    height: 100%;
+    padding: 30px 20px;
+    background-color: #dff9fafb;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px rgba(24, 20, 20, 0.544);
+    transition: 0.3s; 
+    font-style: oblique;
+    color: #0c4f78;
+}
+
+.propos
+{
+ width: 25rem;
+}
+
+h3
+{
+    color: #2e24b3bb;
+}
+
+.picto
+{
+   justify-content: space-evenly;
+}
